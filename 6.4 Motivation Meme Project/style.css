@@ -1,0 +1,19 @@
+.photo{
+    border: 5px solid violet;
+    width: 90%;
+   margin-left: 20px;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: violet;
+}
+body{
+    background: black;
+}
+.first{
+color: aliceblue;
+font-family: "Libre Baskerville", serif;
+width: ;
+text-align: center;
+}
